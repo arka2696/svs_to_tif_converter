@@ -1,0 +1,11 @@
+1. Create the environment:
+
+conda env create -f environment.yml
+
+2. Copy the openslide binary to C drive
+
+3. Command for running the script from the command line:
+
+python convert_svs_to_tif.py --input folder/path/to/input --output folder/path/to/output
+
+
