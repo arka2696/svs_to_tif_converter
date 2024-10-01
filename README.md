@@ -44,5 +44,5 @@ A useful python based tool to convert .svs to .tif file. Currently there is an i
 5. **Run the Script**  
    To run the script from the command line, navigate to the same directory as your Python script after activating the environment, and use the following command:  
    ```bash
-   python convert_svs_to_tif.py --input folder/path/to/input --output folder/path/to/output
+   python convert_svs2tif.py --input folder/path/to/input --output folder/path/to/output
    ```
