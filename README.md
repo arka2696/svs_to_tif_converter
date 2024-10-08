@@ -3,7 +3,7 @@ A useful python based tool to convert .svs to .tif file. Currently there is an i
 
 # Steps to Run the SVS to TIF Converter
 
-1. ** Clone the repo or download the `.zip` file**  
+1. ** Clone the repo or download the zip file**  
    Use the command `git clone` or unzip the `svs_to_tif.zip` file to a directory of your choice. Then, open the Anaconda prompt and navigate to that directory using the following command:  
    ```bash
    cd path/to/your/folder
