@@ -4,7 +4,7 @@ A useful python based tool to convert .svs to .tif file. Currently there is an i
 # Steps to Run the SVS to TIF Converter
 
 1. **Clone the repo or download the zip file**  
-   Use the command `git clone` or unzip the `svs_to_tif.zip` file to a directory of your choice. Then, open the Anaconda prompt and navigate to that directory using the following command:  
+   Use the command `git clone` to clone the necessary files to a directory of your choice. Then, open the Anaconda prompt and navigate to that directory using the following command:  
    ```bash
    cd path/to/your/folder
    ```
@@ -16,7 +16,7 @@ A useful python based tool to convert .svs to .tif file. Currently there is an i
    ```
 
 3. **Copy the OpenSlide Folder**  
-   From the `Elif_final` folder, copy the `openslide` folder to the C drive. After copying, copy the path of the `bin` folder inside the `openslide` folder. The path may look something like this:  
+   From this link: https://openslide.org/download/ download the latest **binaries**, unzip it and copy the `openslide` folder to the a destibation of your choice (preferrably C drive). After copying, copy the path of the `bin` folder inside the       `openslide` folder. The path may look something like this:  
    ```
    C:\Openslide\bin
    ```  
